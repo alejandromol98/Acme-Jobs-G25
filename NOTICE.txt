@@ -25,9 +25,15 @@ The following tools and components are required:
 	- SQL Editor 1.0.0
 	- UMLet - UML Tool for Fast UML Diagrams 14.3
 	- Lombok 1.18.8
-	
-	Trabajo hecho por :
-	
-	- Santiago Martín Gómez (santimartin3105@gmail.com)
+
+
+
+
+The contributors of this project are:
+
+- Alejandro Molina Morales (alejandromol98@gmail.com)
+- Alba Burdallo Narváez (albaburdallo@gmail.com)
+- Miguel Emmanuel Saavedra Gómez ()
+- Santiago Martín Gómez (santimartin3105@gmail.com)
 
 
