@@ -27,7 +27,12 @@ The following tools and components are required:
 	- Lombok 1.18.8
 
 
-	Trabajo hecho por :
-	
-	- Miguel Emmanuel Saavedra Gómez
+
+
+The contributors of this project are:
+
+- Alejandro Molina Morales (alejandromol98@gmail.com)
+- Alba Burdallo Narváez (albaburdallo@gmail.com)
+- Miguel Emmanuel Saavedra Gómez ()
+Santiago Martín
 
