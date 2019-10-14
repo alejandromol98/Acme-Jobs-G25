@@ -28,8 +28,11 @@ The following tools and components are required:
 
 
 
+
 The contributors of this project are:
 
 - Alejandro Molina Morales (alejandromol98@gmail.com)
 - Alba Burdallo Narváez (albaburdallo@gmail.com)
+- Miguel Emmanuel Saavedra Gómez ()
 Santiago Martín
+
