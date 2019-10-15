@@ -30,6 +30,8 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Alba's link
+master.menu.anonymous.favourite-link-alex = Alex's link
+master.menu.anonymous.favourite-link-santi = Santi's link
 
 # master.menu.administrator ###################################################
 
@@ -41,11 +43,15 @@ master.menu.administrator.shutdown = Shut down
 
 master.menu.provider = Provider
 master.menu.provider.favourite-link = Alba's link
+master.menu.provider.favourite-link-alex = Alex's link
+master.menu.provider.favourite-link-santi = Santi's link
 
 # master.menu.consumer ##########################################################
 
 master.menu.consumer = Consumer
 master.menu.consumer.favourite-link = Alba's link
+master.menu.consumer.favourite-link-alex = Alex's link
+master.menu.consumer.favourite-link-santi = Santi's link
 
 # master.menu.user-account ####################################################
 
