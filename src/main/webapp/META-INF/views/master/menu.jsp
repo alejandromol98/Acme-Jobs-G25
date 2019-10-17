@@ -23,6 +23,9 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alex" action="https://ev.us.es/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-santi" action="https://sevius.us.es/"/>
 		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.anonymous.shout" action="/anonymous/shout/list" access="isAnonymous()" />
+				
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>

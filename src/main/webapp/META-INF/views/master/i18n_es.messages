@@ -32,6 +32,8 @@ master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Link de Alba
 master.menu.anonymous.favourite-link-alex = Link de Alex
 master.menu.anonymous.favourite-link-santi = Link de Santi
+master.menu.anonymous.shout = Gritos
+anonymous.shout.form.button.add = Añadir grito
 
 # master.menu.administrator ###################################################
 
