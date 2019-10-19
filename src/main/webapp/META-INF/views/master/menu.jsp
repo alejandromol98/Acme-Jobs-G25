@@ -26,6 +26,7 @@
 		
 		<acme:menu-option code="master.menu.anonymous.bulletins" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.shouts" action="/anonymous/shout/list" />
+			<acme:menu-suboption code="master.menu.anonymous.offers" action="/anonymous/offer/list" />
 		</acme:menu-option>
 				
 

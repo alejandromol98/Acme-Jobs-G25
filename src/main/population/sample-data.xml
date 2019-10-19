@@ -37,5 +37,28 @@
 		<property name="text" value="Just turning 20!"/>
 		<property name="moment" value="2019/09/07 00:00"/>
 	</bean>
+	
+	<!-- Offers -->
+	<bean id="offer01" class="acme.entities.offers.Offer">
+		<property name="author" value="John Doe"/>
+		<property name="title" value="Programador Java"/>
+		<property name="description" value="Trabajo de programador"/>
+		<property name="moment" value="2019/09/02 13:00"/>
+	</bean>
+	
+	<bean id="offer02" class="acme.entities.offers.Offer">
+		<property name="author" value="Jane Doe"/>
+		<property name="title" value="Programador Java y Spring"/>
+		<property name="description" value="Trabajo de programador"/>
+		<property name="moment" value="2019/05/06 11:32"/>
+	</bean>
+	
+	<bean id="offer03" class="acme.entities.offers.Offer">
+		<property name="author" value="Foo Bar"/>
+		<property name="title" value="Programador Python"/>
+		<property name="description" value="Trabajo de programador"/>
+		<property name="moment" value="2019/09/09 17:08"/>
+	</bean>	
+	
 
 </beans>
