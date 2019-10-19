@@ -22,8 +22,6 @@ public class AnonymousShoutCreateService implements AbstractCreateService<Anonym
 	AnonymousShoutRepository repository;
 
 
-	// AbastractListService<Administrator, Shout> interface -----------
-
 	@Override
 	public boolean authorise(final Request<Shout> request) {
 		assert request != null;
