@@ -22,6 +22,12 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="https://www.informatica.us.es/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alex" action="https://ev.us.es/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-santi" action="https://sevius.us.es/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-miguel" action="https://buzonweb.us.es/"/>
+		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.anonymous.bulletins" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.shouts" action="/anonymous/shout/list" />
+			<acme:menu-suboption code="master.menu.anonymous.suggestions" action="/anonymous/suggestion/list" />
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -34,12 +40,14 @@
 			<acme:menu-suboption code="master.menu.provider.favourite-link" action="https://www.informatica.us.es/"/>
 			<acme:menu-suboption code="master.menu.provider.favourite-link-alex" action="https://ev.us.es/"/>
 			<acme:menu-suboption code="master.menu.provider.favourite-link-santi" action="https://sevius.us.es/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-miguel" action="https://buzonweb.us.es/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
 			<acme:menu-suboption code="master.menu.consumer.favourite-link" action="https://www.informatica.us.es/"/>
 			<acme:menu-suboption code="master.menu.consumer.favourite-link-alex" action="https://ev.us.es/"/>
 			<acme:menu-suboption code="master.menu.consumer.favourite-link-santi" action="https://sevius.us.es/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-miguel" action="https://buzonweb.us.es/"/>
 		</acme:menu-option>
 	</acme:menu-left>
 
