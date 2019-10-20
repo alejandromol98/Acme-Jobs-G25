@@ -29,6 +29,16 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `curriculum` (
+       `id` integer not null,
+        `version` integer not null,
+        `moment` datetime(6),
+        `name` varchar(255),
+        `skills` varchar(255),
+        `studies` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `provider` (
        `id` integer not null,
         `version` integer not null,

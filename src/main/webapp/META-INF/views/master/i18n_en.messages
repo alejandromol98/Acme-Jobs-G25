@@ -35,7 +35,10 @@ master.menu.anonymous.favourite-link-santi = Santi's link
 
 master.menu.anonymous.bulletins = Bulletins
 master.menu.anonymous.shouts = MolinaBulletin
+master.menu.anonymous.curriculums = MartinBulletin
 anonymous.shout.form.button.add = Add shout
+anonymous.curriculum.form.button.add = Add curriculum
+
 
 # master.menu.administrator ###################################################
 
