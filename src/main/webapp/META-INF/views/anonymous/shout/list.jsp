@@ -22,5 +22,6 @@
 </acme:list>
 
 <acme:form>
-	<acme:form-submit code="anonymous.shout.form.button.add" action="/anonymous/shout/create"/>
+	<acme:menu-option code="anonymous.shout.list.button.add" action="/anonymous/shout/create"/>
 </acme:form>
+

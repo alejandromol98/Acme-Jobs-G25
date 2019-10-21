@@ -29,6 +29,8 @@
 
     drop table if exists `offer`;
 
+    drop table if exists `curriculum`;
+
     drop table if exists `provider`;
 
     drop table if exists `shout`;

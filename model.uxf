@@ -299,7 +299,7 @@ has v</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>175</x>
+      <x>28</x>
       <y>350</y>
       <w>231</w>
       <h>147</h>
@@ -327,6 +327,18 @@ Offer
 + title: String (NotBlank)
 + description: String (NotBlank)
 + author: String (NotBlank)</panel_attributes>
+      <x>287</x>
+      <y>350</y>
+      <w>231</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Curriculum
+--
++moment:Date(Temporal(TIMESTAMP),Past)
++name:String(NotBlank)
++skills:String(NotBlank)
++studies:String(NotBlank)</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>

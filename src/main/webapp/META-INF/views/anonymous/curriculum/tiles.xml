@@ -18,12 +18,12 @@
 
 <tiles-definitions>
 
-	<definition name="anonymous/shout/form" extends="master">
-		<put-attribute name="body" type="template" value="../anonymous/shout/form.jsp" />
+	<definition name="anonymous/curriculum/form" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/curriculum/form.jsp" />
 	</definition>
 
-	<definition name="anonymous/shout/list" extends="master">
-		<put-attribute name="body" type="template" value="../anonymous/shout/list.jsp" />
+	<definition name="anonymous/curriculum/list" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/curriculum/list.jsp" />
 	</definition>
 	
 	
