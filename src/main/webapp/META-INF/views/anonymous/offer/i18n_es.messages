@@ -1,0 +1,12 @@
+anonymous.offer.form.label.author = Autor:
+anonymous.offer.form.label.description = Descripción:
+anonymous.offer.form.label.title = Título:
+anonymous.offer.form.button.create= Crear
+anonymous.offer.form.button.return = Volver
+
+anonymous.offer.list.label.moment = Momento
+anonymous.offer.list.label.description = Descripción
+anonymous.offer.list.label.title= Título
+anonymous.offer.list.label.author= Autor
+
+anonymous.offer.form.button.add = Añadir oferta
