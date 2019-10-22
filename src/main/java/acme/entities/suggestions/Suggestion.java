@@ -18,7 +18,7 @@ import lombok.Setter;
 @Setter
 public class Suggestion extends DomainEntity {
 
-	private static final long	serialVersionUD	= 1L;
+	private static final long	serialVersionUID	= 1L;
 
 	@NotBlank
 	private String				author;
