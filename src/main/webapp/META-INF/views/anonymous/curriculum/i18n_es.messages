@@ -17,5 +17,5 @@ anonymous.curriculum.list.button.add = Anadir Curriculum
 
 anonymous.curriculum.list.label.moment = Momento
 anonymous.curriculum.list.label.name = Nombre
-anonymous.curriculum.list.label.text= Habilidades
-anonymous.curriculum.list.label.text= Estudios
+anonymous.curriculum.list.label.skills= Habilidades
+anonymous.curriculum.list.label.studies= Estudios
