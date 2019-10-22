@@ -80,6 +80,8 @@
 		<property name="skills" value="Patience"/>
 		<property name="studies" value="Chemistry"/>
 		<property name="moment" value="2019/05/31 18:00"/>
+		</bean>
+		
      
 	<bean id="suggestion01" class="acme.entities.suggestions.Suggestion">
 		<property name="author" value="Miguel"/>
