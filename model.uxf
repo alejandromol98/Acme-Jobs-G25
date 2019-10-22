@@ -299,39 +299,46 @@ has v</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>175</x>
-      <y>259</y>
-      <w>217</w>
-      <h>77</h>
+      <x>28</x>
+      <y>350</y>
+      <w>231</w>
+      <h>147</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Entity&gt;&gt;
 Shout
 --
-+ moment: Date (Temporal(TIMESTAMP),Past)
-+ author: String (NotBlank)
++ moment: Date(Temporal(TIMESTAMP), Past)
++ author : String (NotBlank)
 + text: String (NotBlank)</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>98</x>
-      <y>28</y>
-      <w>70</w>
-      <h>21</h>
+      <x>182</x>
+      <y>532</y>
+      <w>217</w>
+      <h>98</h>
     </coordinates>
-    <panel_attributes>SimpleClass</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLClass</id>
-    <coordinates>
-      <x>98</x>
-      <y>28</y>
-      <w>70</w>
-      <h>21</h>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Offer
+--
++ moment: Date(Temporal(TIMESTAMP), Past)
++ title: String (NotBlank)
++ description: String (NotBlank)
++ author: String (NotBlank)</panel_attributes>
+      <x>287</x>
+      <y>350</y>
+      <w>231</w>
+      <h>147</h>
     </coordinates>
-    <panel_attributes>SimpleClass</panel_attributes>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Curriculum
+--
++moment:Date(Temporal(TIMESTAMP),Past)
++name:String(NotBlank)
++skills:String(NotBlank)
++studies:String(NotBlank)</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
