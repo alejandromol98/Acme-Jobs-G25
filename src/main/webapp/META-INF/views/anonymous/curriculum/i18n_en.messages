@@ -17,5 +17,5 @@ anonymous.curriculum.list.button.add = Add Curriculum
 
 anonymous.curriculum.list.label.moment = Moment
 anonymous.curriculum.list.label.name = Name
-anonymous.curriculum.list.label.text= Skills
-anonymous.curriculum.list.label.text= Studies
+anonymous.curriculum.list.label.skills= Skills
+anonymous.curriculum.list.label.studies= Studies
