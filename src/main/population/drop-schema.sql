@@ -1,4 +1,3 @@
-
     alter table `administrator` 
        drop 
        foreign key FK_2a5vcjo3stlfcwadosjfq49l1;
@@ -30,6 +29,8 @@
     drop table if exists `offer`;
 
     drop table if exists `curriculum`;
+    
+    drop table if exists `suggestion`;
 
     drop table if exists `provider`;
 

@@ -32,6 +32,8 @@ master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Alba's link
 master.menu.anonymous.favourite-link-alex = Alex's link
 master.menu.anonymous.favourite-link-santi = Santi's link
+master.menu.anonymous.favourite-link-miguel = Miguel's link
+
 
 master.menu.anonymous.bulletins = Bulletins
 master.menu.anonymous.shouts = MolinaBulletin
@@ -44,6 +46,8 @@ master.menu.anonymous.curriculums = MartinBulletin
 anonymous.shout.form.button.add = Add shout
 anonymous.curriculum.form.button.add = Add curriculum
 
+master.menu.anonymous.suggestions = SaavedraBulletin
+anonymous.suggestion.form.button.add = Add suggestion
 
 # master.menu.administrator ###################################################
 
@@ -57,6 +61,7 @@ master.menu.provider = Provider
 master.menu.provider.favourite-link = Alba's link
 master.menu.provider.favourite-link-alex = Alex's link
 master.menu.provider.favourite-link-santi = Santi's link
+master.menu.provider.favourite-link-miguel = Miguel's link
 
 # master.menu.consumer ##########################################################
 
@@ -64,6 +69,7 @@ master.menu.consumer = Consumer
 master.menu.consumer.favourite-link = Alba's link
 master.menu.consumer.favourite-link-alex = Alex's link
 master.menu.consumer.favourite-link-santi = Santi's link
+master.menu.consumer.favourite-link-miguel = Miguel's link
 
 # master.menu.user-account ####################################################
 
