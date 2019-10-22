@@ -38,50 +38,6 @@
 		<property name="moment" value="2019/09/07 00:00"/>
 	</bean>
 	
-	<!-- Offers -->
-	<bean id="offer01" class="acme.entities.offers.Offer">
-		<property name="author" value="John Doe"/>
-		<property name="title" value="Programador Java"/>
-		<property name="description" value="Trabajo de programador"/>
-		<property name="moment" value="2019/09/02 13:00"/>
-	</bean>
-	
-	<bean id="offer02" class="acme.entities.offers.Offer">
-		<property name="author" value="Jane Doe"/>
-		<property name="title" value="Programador Java y Spring"/>
-		<property name="description" value="Trabajo de programador"/>
-		<property name="moment" value="2019/05/06 11:32"/>
-	</bean>
-	
-	<bean id="offer03" class="acme.entities.offers.Offer">
-		<property name="author" value="Foo Bar"/>
-		<property name="title" value="Programador Python"/>
-		<property name="description" value="Trabajo de programador"/>
-		<property name="moment" value="2019/09/09 17:08"/>
-	</bean>	
-	
-
-<bean id="curriculum01" class="acme.entities.curriculums.Curriculum">
-		<property name="name" value="Peter Parker"/>
-		<property name="skills" value="I can fly"/>
-		<property name="studies" value="Biology"/>
-		<property name="moment" value="2017/06/15 10:00"/>
-	</bean>
-	
-	<bean id="curriculum02" class="acme.entities.curriculums.Curriculum">
-		<property name="name" value="John Bryant"/>
-		<property name="skills" value="TeamWorker"/>
-		<property name="studies" value="Computer Sciences"/>
-		<property name="moment" value="2016/10/11 20:30"/>
-		
-		</bean>
-		<bean id="curriculum03" class="acme.entities.curriculums.Curriculum">
-		<property name="name" value="Homer Jordan"/>
-		<property name="skills" value="Patience"/>
-		<property name="studies" value="Chemistry"/>
-		<property name="moment" value="2019/05/31 18:00"/>
-	</bean>
-	
 		<bean id="suggestion01" class="acme.entities.suggestions.Suggestion">
 		<property name="author" value="Miguel"/>
 		<property name="suggestion" value="Me gustaría que el fondo tuviera otro color"/>
