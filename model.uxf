@@ -62,8 +62,8 @@ bg=blue</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>238</x>
-      <y>70</y>
+      <x>476</x>
+      <y>364</y>
       <w>21</w>
       <h>42</h>
     </coordinates>
@@ -301,7 +301,7 @@ has v</panel_attributes>
     <coordinates>
       <x>28</x>
       <y>350</y>
-      <w>231</w>
+      <w>217</w>
       <h>147</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Entity&gt;&gt;
@@ -310,6 +310,56 @@ Shout
 + moment: Date(Temporal(TIMESTAMP), Past)
 + author : String (NotBlank)
 + text: String (NotBlank)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>266</x>
+      <y>350</y>
+      <w>217</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Curriculum
+--
++ moment: Date(Temporal(TIMESTAMP), Past)
++ name : String (NotBlank)
++ skills: String (NotBlank)
++ studies: String (NotBlank)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>504</x>
+      <y>350</y>
+      <w>210</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Offer
+--
++ moment: Date(Temporal(TIMESTAMP), Past)
++ title : String (NotBlank)
++ author: String (NotBlank)
++ description: String (NotBlank)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>735</x>
+      <y>350</y>
+      <w>217</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Suggestion
+--
++ moment: Date(Temporal(TIMESTAMP), Past)
++ author : String (NotBlank)
++ suggestion: String (NotBlank)</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
