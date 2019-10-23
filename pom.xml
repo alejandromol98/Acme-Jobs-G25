@@ -22,8 +22,8 @@
 	<version>1.0</version>
 	<packaging>war</packaging>
 
-	<name>Starter-Project</name>
-	<description>This is the Acme-Jobs for the students of Design &amp; Testing.</description>
+	<name>Acme-Jobs</name>
+	<description>This is the Acme-Jobs project of group G25.</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
